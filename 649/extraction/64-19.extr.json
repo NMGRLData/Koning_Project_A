@@ -1,0 +1,26 @@
+{
+    "beam_diameter": "1.0", 
+    "cleanup_duration": 10.0, 
+    "commit": "0278fc0e2800620732bda2d2613b14ae17864c80", 
+    "extract_device": "Fusions CO2", 
+    "extract_duration": 15.0, 
+    "extract_units": "watts", 
+    "extract_value": 3.0, 
+    "pattern": "triangle.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "209", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "", 
+    "response": "", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 0.0
+}
